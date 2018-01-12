@@ -23,6 +23,6 @@ gulp.task('images', function() {
     console.log('starting images task');
 });
 
-gulp.task('default', function() {
+gulp.task("default", function () {
     console.log('starting default task');
 });
